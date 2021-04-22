@@ -1,7 +1,7 @@
 # Paletter.py
 A simple Python script that use the K-Means algorithm to generate a color palette from an image.
 
-![Everyone](https://github.com/mportesi/paletter/blob/main/generated_palette/sample_palette_0.png)
+![Everyone](https://github.com/mportesi/paletter/blob/main/generated_palette/howl_castle_palette.png)
 
 ## Usage
 
