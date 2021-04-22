@@ -1,5 +1,6 @@
 # Paletter.py
 A simple Python script that use the K-Means algorithm to generate a color palette from an image.
+Using openCV, scikit-learn and numpy.
 
 ![Everyone](https://github.com/mportesi/paletter/blob/main/generated_palette/howl_castle_palette.png)
 
